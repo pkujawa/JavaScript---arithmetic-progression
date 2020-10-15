@@ -1,0 +1,24 @@
+html {
+}
+body {
+	margin: 20;
+	background-color: #3399CC
+}
+label {
+	float: left;
+	color: #FFFFFF; 
+	font-size: 30; 
+	font-family: Courier new
+}
+
+input[type=button]{
+	background-color:#FFCCCC;
+	font-size: 20px; 
+	font-family: Courier new; 
+	padding: 8px; 
+	border-radius: 15px
+}
+#result{
+	font-family: Courier new;
+	font-size: 17px;
+}
